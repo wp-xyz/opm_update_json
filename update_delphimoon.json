@@ -1,0 +1,14 @@
+{
+  "UpdatePackageData" : {
+    "DownloadZipURL" : "",
+    "Name" : "DelphiMoon"
+  },
+  "UpdatePackageFiles" : [
+    {
+      "ForceNotify" : false,
+      "InternalVersion" : 1,
+      "Name" : "tmoon_laz.lpk",
+      "Version" : "2.1.1.0"
+    }
+  ]
+}
