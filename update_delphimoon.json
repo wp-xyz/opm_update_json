@@ -1,6 +1,6 @@
 {
   "UpdatePackageData" : {
-    "DownloadZipURL" : "",
+    "DownloadZipURL" : "https://github.com/wp-xyz/delphimoon/archive/v2.1.1.zip",
     "Name" : "DelphiMoon"
   },
   "UpdatePackageFiles" : [
