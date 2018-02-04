@@ -1,6 +1,6 @@
 {
   "UpdatePackageData" : {
-    "DownloadZipURL" : "https://github.com/wp-xyz/delphimoon/archive/v2.1.1.zip",
+    "DownloadZipURL" : "https://github.com/wp-xyz/delphimoon/archive/v2.1.2.zip",
     "Name" : "DelphiMoon"
   },
   "UpdatePackageFiles" : [
@@ -8,7 +8,7 @@
       "ForceNotify" : false,
       "InternalVersion" : 1,
       "Name" : "tmoon_laz.lpk",
-      "Version" : "2.1.1.0"
+      "Version" : "2.1.2.0"
     }
   ]
 }
